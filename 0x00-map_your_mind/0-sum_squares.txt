@@ -1,0 +1,9 @@
+Algorithm to calculate the sum of squares of given input of numbers
+Step 1: start
+Step 2: read number n
+Step 3: Initilalize sum=0, i=1
+Step 4: calculate sum=sum+(i*i)
+Step 5: i=i+1
+Step 6: Repeat steps 4 and 5 until i<=n
+Step 7: Print sum
+Step8: stop
