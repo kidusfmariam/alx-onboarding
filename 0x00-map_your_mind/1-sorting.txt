@@ -1,0 +1,12 @@
+Algorithm that reads in three numbers and writes them all in sorted order
+Step 1: Start.
+Step 2: Accept three numbers from user (a, b, c).
+Step 3: If a < b then goto step 4 else goto step 8.
+Step 4: If a < c then goto step 5 else goto step 7.
+Step 5: If b < c then goto step 9 else goto step 6.
+Step 6: Interchange b and c and goto step 9.
+Step 7: Interchange a and c and goto step 3.
+Step 8: Interchange a and b and goto step 3.
+Step 9: Display “Ascending order”.
+Step 10: Display a, b, c.
+Step 11: Stop.
